@@ -51,6 +51,6 @@
   </ul>
   <li>Updation</li>
   <ul>
-    <li><strong><em>db.collection_name.update({'name','Ritik'},{'name':Ritik, 'branch':'MCE'});</em></strong> is use to update enteries whose name is Ritik.</li>
+    <li><strong><em>db.collection_name.updateMany({'name':'Ritik'},{$set:{'name':'Ritik', 'Branch':'MCE'}});</em></strong> is use to update enteries whose name is Ritik.</li>
   </ul>
 </ul>
