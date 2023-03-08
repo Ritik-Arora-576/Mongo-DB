@@ -14,7 +14,7 @@
 <h3>Mongo DB Terminologies</h3>
 <ul>
   <li><strong>Database:</strong> It is a set of collections.</li>
-  <li><strong>Cellections:</strong> It is a set of data. (For SQL it is a kind of table)</li>
+  <li><strong>Collections:</strong> It is a set of data. (For SQL it is a kind of table)</li>
   <li><strong>Document (BSON):</strong> It is acted like a row or data stored inside a collections.</li>
   <li><strong>Fields:</strong> It is a set of attributes or columns.</li>
 </ul>
@@ -22,4 +22,5 @@
 <h3>Commands:</h3>
 <ul>
   <li><strong><em>mongosh</em></strong> is used to start the MongoDB server.</li>
+  <li><strong><em>show dbs;</em></strong> is used to see all databases.</li>
 </ul>
