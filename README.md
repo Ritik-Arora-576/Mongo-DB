@@ -19,4 +19,7 @@
   <li><strong>Fields:</strong> It is a set of attributes or columns.</li>
 </ul>
 <br>
-<strong><em>mongosh</em></strong> is used to start the MongoDB server.
+<h3>Commands:</h3>
+<ul>
+  <li><strong><em>mongosh</em></strong> is used to start the MongoDB server.</li>
+</ul>
