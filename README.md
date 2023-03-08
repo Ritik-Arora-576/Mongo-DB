@@ -1,5 +1,8 @@
 <h1 align="center">Mongo DB</h1>
-<img align="center" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jcYPNu6-qHLMK-OG5Wij1oQIYOzjpUpiSg&usqp=CAU">
+<div align="center">
+  ![image](https://user-images.githubusercontent.com/68052449/223639243-f9ea3830-450a-403b-b2aa-34325e3f9204.png)
+</div>
+
 <br>
 <ul>
   <li><strong>Mongo: </strong>It is a command line shell that connect to a specific instance of Mongo D.</li>
