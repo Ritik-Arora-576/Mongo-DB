@@ -53,5 +53,6 @@
   <ul>
     <li><strong><em>db.collection_name.updateMany({'name':'Ritik'},{$set:{'name':'Ritik', 'Branch':'MCE'}});</em></strong> is use to update entries whose name is Ritik.</li>
     <li><strong>upsert</strong> is false by default. If upsert gets true then if any entries has not been matched then new entry has been inserted.<strong><em>db.collection_name.updateMany({'name':'Ritik'},{$set:{'name':'Ritik', 'Branch':'MCE'}},{upsert:true});</em></strong></li>
+    <li><strong><em>db.collection_name.updateMany({'name':'Ritik'},{$inc:{'value':2}});</em></strong> is use to increase value feild by 2.</li>
   </ul>
 </ul>
