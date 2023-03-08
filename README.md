@@ -35,4 +35,8 @@
     <li><strong><em> db.createCollection("collection_name");</em></strong> is use to create new collection.</li>
     <li><strong><em> db.collection_name.drop()</em></strong> is use to delete collection.</li>
   </ul>
+  <li>Enteries Insertions in Database</li>
+  <ul>
+    <li><strong><em>db.collection_name.insert({'name':'Ritik','Branch':'EE'})</em></strong> is use to insert enteries in collection.</li>
+  </ul>
 </ul>
