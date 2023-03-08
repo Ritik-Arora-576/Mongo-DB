@@ -40,5 +40,6 @@
     <li><strong><em>db.collection_name.insertOne({'name':'Ritik','Branch':'EE'})</em></strong> is use to insert one entry in collection.</li>
     <li><strong><em>db.collection_name.insertMany([{'name':'Ritik','Branch':'EE'},{'name':'Naman','Branch':'CSE'}])</em></strong> is use to insert more than one entries in collection.</li>
     <li>A unique object ID is attach to every object enteries.</li>
+    <li><strong><em>db.collection_name.find();</em></strong> is use to view all row enteries.</li>
   </ul>
 </ul>
