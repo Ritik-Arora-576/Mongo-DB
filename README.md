@@ -43,9 +43,14 @@
     <li><strong><em>db.collection_name.find();</em></strong> is use to view all rows inside the collection.</li>
     <li>We can add different feilds to multiple row enteries.</li>
     <li><strong><em>db.collection_name.find({'name':'Ritik','Branch':'EE'})</em></strong> is use to find the entry whose name is Ritik and Branch is EE.</li>
+    <li><strong><em>db.collection_name.findOne({'name':'Ritik','Branch':'EE'})</em></strong> is use to find the first occurance whose name is Ritik and Branch is EE.</li>
     <li><strong><em>db.collection_name.find().limit(5);</em></strong> is use to limit the output upto 5. If there is less than 5 row enteries in collection then it will show all the outputs.</li>
     <li><strong><em>db.collection_name.find().count();</em></strong> is use to show the total number of outputs.</li>
     <li><strong><em>db.collection_name.find().sort({'value':1});</em></strong> is use to sort row enteries in ascending order.(Assume value as feild of enteries)</li>
     <li><strong><em>db.collection_name.find().sort({'value':-1});</em></strong> is use to sort row enteries in descending order.</li>
+  </ul>
+  <li>Updation</li>
+  <ul>
+    <li><strong><em>db.collection_name.update({'name','Ritik'},{'name':Ritik, 'branch':'MCE'});</em></strong> is use to update enteries whose name is Ritik.</li>
   </ul>
 </ul>
