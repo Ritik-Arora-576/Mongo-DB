@@ -48,6 +48,7 @@
     <li><strong><em>db.collection_name.find().count();</em></strong> is use to show the total number of outputs.</li>
     <li><strong><em>db.collection_name.find().sort({'value':1});</em></strong> is use to sort row enteries in ascending order.(Assume value as feild of enteries)</li>
     <li><strong><em>db.collection_name.find().sort({'value':-1});</em></strong> is use to sort row enteries in descending order.</li>
+    <li><strong><em>db.collection_name.remove({'name':'Ritik'});</em></strong> is use to remove rows whose name is Ritik.</li>
   </ul>
   <li>Updation</li>
   <ul>
