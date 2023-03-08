@@ -1,6 +1,6 @@
 <h1 align="center">Mongo DB</h1>
 <div align="center">
-  ![image](https://user-images.githubusercontent.com/68052449/223639897-e5a35f12-b972-4aa0-9c06-46296b15653d.png)
+  <img href="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1644403814/hevo-learn/springboot_MongoDB_configuration_mongodb.jpg?_i=AA">
 </div>
 
 <br>
