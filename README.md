@@ -1,6 +1,6 @@
 <h1 align="center">Mongo DB</h1>
 <div align="center">
-  ![image](https://user-images.githubusercontent.com/68052449/223639243-f9ea3830-450a-403b-b2aa-34325e3f9204.png)
+  ![image](https://user-images.githubusercontent.com/68052449/223639897-e5a35f12-b972-4aa0-9c06-46296b15653d.png)
 </div>
 
 <br>
