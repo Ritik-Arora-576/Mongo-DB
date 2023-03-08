@@ -5,7 +5,7 @@
   <li><strong>MongoD: </strong>It is also known as <em>Mongo Daemon</em> it's basically host the process for the database.</li>
 </ul>
 <br>
-<img src="https://user-images.githubusercontent.com/68052449/223647052-8ced9cd1-57ed-4440-a24b-c079cf9d015f.png">
+<img src="https://user-images.githubusercontent.com/68052449/223647052-8ced9cd1-57ed-4440-a24b-c079cf9d015f.png" align="center" row=50% width=50%>
 <h3>Mongo DB Terminologies</h3>
 <ul>
   <li><strong>Database:</strong> It is a set of collections.</li>
