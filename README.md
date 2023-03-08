@@ -18,3 +18,5 @@
   <li><strong>Document (BSON):</strong> It is acted like a row or data stored inside a collections.</li>
   <li><strong>Fields:</strong> It is a set of attributes or columns.</li>
 </ul>
+<br>
+<strong><em>mongosh</em></strong> is used to start the MongoDB server.
