@@ -22,10 +22,17 @@
 <h3>Commands:</h3>
 <ul>
   <li><strong><em>mongosh</em></strong> is used to start the Mongo shell.</li>
-  <li><strong><em>show dbs;</em></strong> is used to view all databases.</li>
-  <li><strong><em>use database_name</em></strong> is used to create or switch to new database.</li>
-  <li><strong><em>db</em></strong> is use to view currently used database.</li>
-  <li><strong><em>db.dropDatabase();</em></strong> is use to delete currently active database.</li>
-  <li><strong><em>show collections</em></strong> is use to view all collections in currently active database.</li>
-  <li><strong><em> db.createCollection("collection_name");</em></strong> is use to create new collection.</li>
+  <li>Database</li>
+  <ul>
+    <li><strong><em>show dbs;</em></strong> is used to view all databases.</li>
+    <li><strong><em>use database_name</em></strong> is used to create or switch to new database.</li>
+    <li><strong><em>db</em></strong> is use to view currently used database.</li>
+    <li><strong><em>db.dropDatabase();</em></strong> is use to delete currently active database.</li>
+  </ul>
+  <li>Collections</li>
+  <ul>
+    <li><strong><em>show collections</em></strong> is use to view all collections in currently active database.</li>
+    <li><strong><em> db.createCollection("collection_name");</em></strong> is use to create new collection.</li>
+    <li><strong><em> db.collection_name.drop()</em></strong> is use to delete collection.</li>
+  </ul>
 </ul>
