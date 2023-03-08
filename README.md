@@ -1,6 +1,6 @@
 <h1 align="center">Mongo DB</h1>
 <div align="center">
-  <img src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1644403814/hevo-learn/springboot_MongoDB_configuration_mongodb.jpg?_i=AA" align="center">
+  <img src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1644403814/hevo-learn/springboot_MongoDB_configuration_mongodb.jpg?_i=AA" align="center" height=50% width=50%>
 </div>
 <br>
 <ul>
